@@ -4,16 +4,19 @@ const images = [
         original: 'JS/sleepy.jpg',
         description: 'this car is very eepy',
     },
-    {
-        preview:'JS/distinguished preview.jpg',
-        original: 'JS/distinguished.jpg',
-        description: 'this car is very distinguished',
-    },
+    
     {
         preview:'JS/angry preview.jpg',
         original: 'JS/angry.jpg',
         description: 'this car is very angry',
     },
+
+    {
+        preview:'JS/distinguished preview.jpg',
+        original: 'JS/distinguished.jpg',
+        description: 'this car is very distinguished',
+    },
+    
 
 ]
 

@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(255, 239, 190); 
+    margin: 0;
+    padding: 0;
+}
+
+.form-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.fill {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 400px;
+}
+
+.fill input,
+.fill textarea {
+    width: 98%;
+    margin: 10px 0;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 4px;
+}
+
+.fill button {
+    background-color: rgb(94, 63, 2);
+    color: rgb(255, 239, 190);
+    padding: 10px;
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer;
+}
+
+.fill button:hover {
+    background-color: rgb(70, 50, 0); 
+}
